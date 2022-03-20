@@ -2,8 +2,6 @@
 # Birthday-Lookup-App
 A flutter application
 
-
->>>>>>> 3947c65926142c08d13beaecfa5f2e82b19379c1
 # mahakfaheem_mdp_crud_app
 
 A new Flutter project.
