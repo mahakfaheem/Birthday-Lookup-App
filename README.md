@@ -1,7 +1,7 @@
 # Birthday-Lookup-App
 A flutter application
 
-<<<<<<< HEAD
+
 # mahakfaheem_mdp_crud_app
 
 A new Flutter project.
@@ -21,4 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Birthday-Lookup-App
 A flutter application
->>>>>>> 0e8e8838c84a57d167e0527e7b4ead7d62548d32
+
