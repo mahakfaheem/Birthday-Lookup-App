@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143614159466",
+    "project_id": "mahakfaheem-mdp-crud",
+    "storage_bucket": "mahakfaheem-mdp-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143614159466:android:ac90315c4f11e4b650f813",
+        "android_client_info": {
+          "package_name": "com.example.mahakfaheem_mdp_crud_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143614159466-954hs3aiumrtt0vgsmluijl7nsq33ba0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlvKLlUPk1hA2mIxm9y0VlCGnNsiqON6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143614159466-954hs3aiumrtt0vgsmluijl7nsq33ba0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
