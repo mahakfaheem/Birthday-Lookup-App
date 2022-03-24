@@ -13,9 +13,18 @@ class _SecondScreenState extends State<SecondScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(
+      body: Container(
+        alignment: Alignment.center,
+        decoration: BoxDecoration(
+          image: DecorationImage(
+            image: AssetImage('assets/cake.jpg'),
+            fit: BoxFit.cover,
+          ),
+        ),
+
+
         child: ElevatedButton(
-          child: Text("Calendar"),
+          child: Text("View Calendar"),
           onPressed: () {
             FirebaseAuth.instance.signOut().then((value) {
               print("Signed Out");

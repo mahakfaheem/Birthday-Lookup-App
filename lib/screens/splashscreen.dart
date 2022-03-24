@@ -19,7 +19,7 @@ class _splashScreenState extends State<splashScreen> {
       imageSize: 100,
 
       imageSrc: 'assets/cake1.png',
-      text: "\n Birthday Lookup \n\n\n MDP ASSIGNMENT \n [A CRUD APP] \n\n\n ",
+      text: "\n Birthday Lookup \n\n\n MDP ASSIGNMENT \n\n\n ",
 
 
       textStyle: TextStyle(color: Colors.yellowAccent, fontSize: 30,fontWeight: FontWeight.bold,),

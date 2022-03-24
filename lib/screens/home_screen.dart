@@ -155,10 +155,10 @@ class _HomeScreenState extends State<HomeScreen> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: <Widget>[
                           Text(
-                            'Birthdays',
+                            'Upcoming Birthdays',
                             style: TextStyle(
                               color: Colors.pinkAccent,
-                              fontSize: 40.0,
+                              fontSize: 33.0,
                               fontWeight: FontWeight.bold,
                             ),
                           ),
